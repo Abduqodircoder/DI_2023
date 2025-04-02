@@ -1,0 +1,11 @@
+git init
+git status
+git add .|*|file_name
+git commit -m "message"
+git diff
+git reset
+git restore
+git branch -M 
+git remote add origin url
+git checkout
+git log
