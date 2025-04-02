@@ -9,3 +9,4 @@ git branch -M
 git remote add origin url
 git checkout
 git log
+git remote set url <https://>
